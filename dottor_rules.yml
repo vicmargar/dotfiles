@@ -1,0 +1,12 @@
+---
+development:
+- source: .bashrc
+  target: ~/.bashrc
+- source: .bash_login
+  target: ~/.bash_login
+- source: .gemrc
+  target: ~/.gemrc
+- source: .gitconfig
+  target: ~/.gitconfig
+- source: .gitignore_global
+  target: ~/.gitignore_global
